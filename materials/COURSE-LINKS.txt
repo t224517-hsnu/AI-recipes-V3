@@ -1,0 +1,10 @@
+原Canva簡報（基礎模型操作參考）
+https://canva.link/2vbof699mu4c3zj
+
+新版全班合作流程與GitHub Pages部署請以teacher-guide.html為準。原簡報中的雲端後台步驟不適用本簡化版。
+
+Teachable Machine示範模型
+https://teachablemachine.withgoogle.com/models/il-xR9WBN/
+
+可選用的Google食譜檔
+https://docs.google.com/spreadsheets/d/1VmRoQM6oiSJrrnuExrM6wH08sqtfD1eU/edit

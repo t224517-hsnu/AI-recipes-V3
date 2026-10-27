@@ -1,0 +1,20 @@
+GitHub Pages 簡化版 全班合作 AI 糕點食譜大全
+
+不需要 Cloudflare、密碼後台、API 金鑰或 npm 安裝。
+先閱讀 README.md 的四步部署說明。
+
+1. 建立 GitHub 公開儲存庫。
+2. 把此資料夾內所有檔案上傳根目錄，不要只上傳 ZIP。
+3. Settings → Pages → Deploy from a branch → main → /(root) → Save。
+4. 等待發布，使用 Pages 顯示的 HTTPS 網址。
+
+每組交：約30張訓練照片、3–5張保留測試照、一筆食譜CSV與照片來源。
+老師將全部類別照片放進同一個 Teachable Machine 專案重訓。
+網頁合併各組CSV後，檢查新模型，下載 config.json 與 recipes.csv。
+把兩檔一起上傳 GitHub 並 Commit changes，全班重新整理。
+
+網頁本機試用不會直接更新別人的裝置；正式更新由 GitHub 編輯權限管理。
+Google試算表仍可選用；想只靠GitHub維護食譜，保留 recipes.csv 即可。
+
+新版兩小時教案：teacher-guide.html（可列印）。
+學生小組交件工具：group.html。
